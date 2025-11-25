@@ -1,0 +1,21 @@
+Flask==2.3.3
+Werkzeug==2.3.7
+Jinja2==3.1.2
+MarkupSafe==2.1.3
+itsdangerous==2.1.2
+click==8.1.7
+blinker==1.6.3
+
+# Volitelné pro databázi
+# SQLAlchemy==2.0.21
+# Flask-SQLAlchemy==3.0.5
+
+# Volitelné pro formuláře
+# Flask-WTF==1.1.1
+# WTForms==3.0.1
+
+# Volitelné pro emails
+# Flask-Mail==0.9.1
+
+# Pro produkci
+gunicorn==21.2.0
